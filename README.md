@@ -35,4 +35,4 @@ $ npm run dev
 ```
 
 ## Screenshot
-![alt text](https://github.com/CharlesSin/Power-Statistics-Tracker/blob/main/public/screenshot.jpg)
+![alt text](https://github.com/CharlesSin/Power-Statistics-Tracker/blob/master/public/screenshot.jpg)
